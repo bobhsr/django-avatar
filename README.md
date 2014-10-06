@@ -1,0 +1,4 @@
+django-avatar
+=============
+
+django-avatar
